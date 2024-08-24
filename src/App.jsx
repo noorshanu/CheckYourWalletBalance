@@ -20,11 +20,11 @@ function App() {
 
         <div className=" flex justify-center gap-6 items-center my-6">
 
-          <a href="/" className=" text-4xl text-white">
+          <a href="https://github.com/noorshanu" target="_blank" className=" text-4xl text-white">
           <FaGithub />
           </a>
 
-          <a href="/" className=" text-4xl text-white">
+          <a href="https://www.linkedin.com/in/noor-alam-aa722314b/" className=" text-4xl text-white">
           <FaLinkedin />
           </a>
 
