@@ -36,7 +36,7 @@ function App() {
 
         <div className=" text-center text-[#acacac] text-base flex justify-center items-center gap-2">
 
-          Made by <a href="/ " className="flex justify-center items-center gap-2">NOORSHANU <FaHeart  className=" text-red-700 "/>
+          Made by <a href="https://github.com/noorshanu " className="flex justify-center items-center gap-2">NOORSHANU <FaHeart  className=" text-red-700 "/>
           </a>
         </div>
       </div>
